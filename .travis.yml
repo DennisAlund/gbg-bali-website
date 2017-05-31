@@ -11,7 +11,7 @@ branches:
 sudo: required
 
 before_install:
-  - nvm install node
+  - nvm install 6.9.1
   - ruby -v
 
 install:
